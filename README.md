@@ -6,7 +6,7 @@
 3. Sparkling Water, Organic Cane Syrup, Organic White Grape Juice Concentrate, Natural Flavors, Apple Acid, Citric Acid, Organic Green Tea Leaf Extract, Organic Guarana Seed Extract, Organic Echinacea Flower Extract, Organic Panax Ginseng Root Extract.
 	![alt text](Guru.jpg)
 
-|------|------|
+
 | Guru | Bang |
 |------|------|
 | It doesn't use any Artificial Sweetners | Uses Artificial Sweetners |
